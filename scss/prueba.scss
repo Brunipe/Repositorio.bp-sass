@@ -1,9 +1,8 @@
-p {
-    color: aqua;
-    span {
-        color: red;
-    }
+$color-primary: red;
 
+div{
+    background-color:  $color-primary;
 }
+@import "variables";
 @import "nav";
 @import "main";
