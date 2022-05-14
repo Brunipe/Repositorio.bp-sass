@@ -1,0 +1,19 @@
+{
+  "name": "repositorio-brunoperez",
+  "version": "1.0.0",
+  "description": "Entrega para el trabajo de github con commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brunipe/ProyectoBrunoperez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brunipe/ProyectoBrunoperez/issues"
+  },
+  "homepage": "https://github.com/Brunipe/ProyectoBrunoperez#readme"
+}
